@@ -1,5 +1,5 @@
-const WEBHOOK = 'https://canary.discord.com/api/webhooks/1510677988847390831/md7BKx6GzcyMUA-kuI2ZwBqI5pLHoGbwFbzEiAHWOE5vJgPeJQ-vBC6pk2Ws4oLfB4b6';
-const ROLE_ID = '1520122808309645413';
+const WEBHOOK = 'https://discord.com/api/webhooks/1510677988847390831/md7BKx6GzcyMUA-kuI2ZwBqI5pLHoGbwFbzEiAHWOE5vJgPeJQ-vBC6pk2Ws4oLfB4b6';
+const ROLE_ID = '1489356197298573413';
 const WHITELIST_IP = '';
 
 function updateProgress(step) {
