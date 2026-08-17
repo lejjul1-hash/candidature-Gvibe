@@ -107,7 +107,7 @@ async function sendForm() {
         { name: '📚 Expérience',                  value: data.experience || 'Aucune' },
         { name: '➕ Informations supplémentaires',value: data.extra      || 'Aucune' },
       ],
-      footer: { text: '💼 Système de candidature — GtaVice' },
+      footer: { text: '💼 Système de candidature — Gvibe' },
       timestamp: new Date().toISOString(),
     }],
   };
